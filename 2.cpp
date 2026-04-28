@@ -13,5 +13,6 @@ int main ()
 	cout<<"|____________________________________|\n";
 	sleep(1);
 	system("cls");
+	
 	return 0;
 }
