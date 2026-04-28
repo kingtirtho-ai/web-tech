@@ -3,6 +3,7 @@
 #include <cstring>
 #include <sstream>
 #include <ctime>
+#include <windows.h>
 using namespace std;
 int main ()
 {
@@ -11,7 +12,6 @@ int main ()
 	cout<<"|          Benvenuto nel             |\n";
 	cout<<"|        registro elettrico!         |\n";
 	cout<<"|____________________________________|\n";
-	system("PAUSE");
 	sleep(1);
 	system("cls");
 	return 0;
